@@ -1,0 +1,31 @@
+.wrapper {
+  position: relative;
+  margin: 100px 570px;
+  display: grid;
+  padding: 20px;
+}
+
+.form {
+  border: 1px solid grey;
+  position: relative;
+  padding: 20px;
+  display: grid;
+  height: 160px;
+}
+label {
+  font-weight: 900;
+  font-size: 25px;
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+}
+
+.todo-list {
+  border: 1px solid grey;
+  height: auto;
+  text-align: center;
+  font-weight: 400;
+  font-size: 20px;
+}
